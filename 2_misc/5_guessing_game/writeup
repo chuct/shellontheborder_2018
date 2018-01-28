@@ -1,0 +1,10 @@
+*Prompt*
+So you think you got jokes?
+nc quail.shellontheborder.com 5015
+
+*Solution*
+nc quail.shellontheborder.com 5015
+The server prompts with a variety of different jokes
+For example: How do you put an alien baby to sleep?
+A: You rocket.
+Correct! FLAG{Laffie_Taffie_230De}
