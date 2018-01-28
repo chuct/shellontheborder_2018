@@ -1,0 +1,8 @@
+*Prompt*
+ab = 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+given1 = the quick brown fox jumps over the lazy dog.
+given1 result = tig2uzojs8lCAJBevFPiDPIMQoOWGUtYNLxUK++CR$Wn
+findme = FMCJ hkbAjB4InG8kaEtxHwKl
+
+*Solution*
+Each letter is rotated right n positions in ab based on its index in given1/findme
