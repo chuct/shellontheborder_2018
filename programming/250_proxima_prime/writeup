@@ -1,0 +1,9 @@
+*Prompt*
+respond with the prime number above and below the target.
+This is challenge is epoch fail if you don't respond in the correct format.
+
+http://team_server.shellontheborder.com:5040
+{"target": 2301770348029601449, "above": 0, "below": 0}
+Target changes and is somehow tied to UNIX time?
+
+*Solution*
