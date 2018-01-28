@@ -1,0 +1,15 @@
+*Prompt*
+Excellent, dude!
+https://www.youtube.com/watch?v=WVXGC896Jdw
+See attached excel file
+
+*Solution*
+Upon opening, attached excel file appears to be empty
+However, many cells contain whitespace characters
+ctrl-H -> Replace " " character with practically any other character -> Replace All
+Select all cells -> Conditional formatting -> New rule -> Format only cells that contain -> Blanks -> Format... -> Fill -> Black
+Select all cells -> Set column width of all cells to 2 -> Set zoom of document to 10%
+Read with QR reader
+FLAG{E><C3L_ArT_qwiw}
+
+Modified and Unmodified Excel Documents Are Included
